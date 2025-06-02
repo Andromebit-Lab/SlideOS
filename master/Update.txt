@@ -1,0 +1,3 @@
+latest_build=301
+download_url=https://www.dropbox.com/s/tuarchivo/SlideOS-301.ppsm?raw=1
+changelog=Mejoras de rendimiento y corrección de errores.
