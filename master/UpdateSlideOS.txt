@@ -1,3 +1,3 @@
-latest_build=300
-download_url=https://www.dropbox.com/s/tuarchivo/SlideOS-301.ppsm?raw=1
+latest_build=301
+download_url=https://raw.githubusercontent.com/Andromebit-Lab/SlideOS/blob/master/SlideOS%20NextGenesis%20v1.0.0-301.ppsm
 changelog=Mejoras de rendimiento y corrección de errores.
