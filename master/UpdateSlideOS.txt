@@ -1,4 +1,4 @@
-latest_build=301
+latest_build=303
 download_url=https://raw.githubusercontent.com/andromebitlab-2/SlideOS/master/master/SlideOS%20NextGenesis%20v1.0.0-301.ppsm
 changelog=Mejoras de rendimiento y corrección de errores.
 Example
