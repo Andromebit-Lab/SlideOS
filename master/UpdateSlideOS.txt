@@ -7,5 +7,4 @@ Mejoras de rendimiento y corrección de errores:
 esto en teoría estaría solucionado
 
 Avisen si encuentran otros fallos. Gracias por usar SlideOS!.
-
 ---
