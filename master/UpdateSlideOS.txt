@@ -1,3 +1,3 @@
 latest_build=301
 download_url=https://raw.githubusercontent.com/andromebitlab-2/SlideOS/master/master/SlideOS%20NextGenesis%20v1.0.0-301.ppsm
-changelog=Mejoras de rendimiento y corrección de errores:\nAhora funciona más fluido el sistema de arranque\nSe corrigió el fallo de la calculadora, antes no calculaba correctamente,\nesto en teoría estaría solucionado\n\nAvisen si tienen algún otro bug... Gracias!
+changelog=Mejoras de rendimiento y corrección de errores:\nAhora funciona más fluido el sistema de arranque\nSe corrigió el fallo de la calculadora, antes no calculaba correctamente,\nesto en teoría estaría solucionado\nAvisen si tienen algún otro bug... Gracias!
