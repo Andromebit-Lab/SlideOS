@@ -6,3 +6,4 @@ Entre esos bugs se han corregido los siguientes en general:
 2. Se ha corregido el error del cual no te permitía reiniciar correctamente, se debe a la majora anterior.
 3. Se ha terminado de implementar los comandos de energía en la consola.
 4. Se ha corregido el sistema de hibernación, ahora conserva los servicios criticos y aplicaciones hasta el siguiente inicio sin problemas.
+5. Se han removido opciones de compilaciones anteriores que no funcionaban, en su lugar se remplazó por opciones mucho mas funcionales y útiles.
