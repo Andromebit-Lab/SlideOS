@@ -7,3 +7,5 @@ Entre esos bugs se han corregido los siguientes en general:
 3. Se ha terminado de implementar los comandos de energía en la consola.
 4. Se ha corregido el sistema de hibernación, ahora conserva los servicios criticos y aplicaciones hasta el siguiente inicio sin problemas.
 5. Se han removido opciones de compilaciones anteriores que no funcionaban, en su lugar se remplazó por opciones mucho mas funcionales y útiles.
+6. Se ha hecho un salto de numeración del núcleo live de v1.0.0 a v1.0.1 trayendo consigo muchas correcciones y reforzando su seguridad y robustez
+7. Se ha modificado el sistema de arranque, no para que vaya mas rapido, sino para que sea mucho mas estables
