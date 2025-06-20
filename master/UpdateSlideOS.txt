@@ -2,11 +2,11 @@ latest_build=303
 download_url=https://raw.githubusercontent.com/andromebitlab-2/SlideOS/master/master/SlideOS%20NextGenesis%20v1.0.0-303.ppsm
 changelog=Corrección de errores y de estabilidad, se han corregido 107 entre ellos 37 son de estabilidad.
 Entre esos bugs se han corregido los siguientes en general:
-1. Se ha terminado de implementar el inicio rápido "Ve a la consola y escribe /fastboot = true/false".
+1. Se ha terminado de implementar el inicio rápido Ve a la consola y escribe "/fastboot = true/false".
 2. Se ha corregido el error del cual no te permitía reiniciar correctamente, se debe a la mejora anterior.
 3. Se ha terminado de implementar los comandos de energía en la consola.
-4. Se ha corregido el sistema de hibernación, ahora conserva los servicios criticos y aplicaciones hasta el siguiente inicio sin problemas.
-5. Se han removido opciones de compilaciones anteriores que no funcionaban, en su lugar se remplazó por opciones mucho mas funcionales y útiles.
-6. Se ha hecho un salto de numeración del núcleo live de v1.0.0 a v1.0.1 trayendo consigo muchas correcciones y reforzando su seguridad y robustez.
-7. Se ha modificado el sistema de arranque, no para que vaya mas rapido, sino para que sea mucho mas estables.
-8. Ahora va todo en general con una mejor fluidez.
+4. Se ha corregido el sistema de hibernación, ahora conserva los servicios críticos y aplicaciones hasta el siguiente inicio sin problemas.
+5. Se han removido opciones de compilaciones anteriores que no funcionaban, en su lugar se remplazó por opciones mucho más funcionales y útiles.
+6. Se ha hecho un salto de numeración del núcleo Live de v1.0.0 a v1.0.1 trayendo consigo muchas correcciones y reforzando su seguridad y robustez.
+7. Se ha modificado el sistema de arranque, no para que vaya más rápido, sino para que sea mucho más estables.
+8. Ahora va todo en general con una mejor fluidez, en comparación con la compilación 302, la compilación 303 va un 37% más rápido ya que se eliminó cosas innecesarias.
