@@ -1,12 +1,15 @@
-latest_build=303
-download_url=https://raw.githubusercontent.com/andromebitlab-2/SlideOS/master/master/SlideOS%20NextGenesis%20v1.0.0-303.ppsm
-changelog=Corrección de errores y de estabilidad, se han corregido 107 entre ellos 37 son de estabilidad.
-Entre esos bugs se han corregido los siguientes en general:
-1. Se ha terminado de implementar el inicio rápido: Ve a la consola y escribe "/fastboot = true/false".
-2. Se ha corregido el error del cual no te permitía reiniciar correctamente, se debe a la mejora anterior.
-3. Se ha terminado de implementar los comandos de energía en la consola.
-4. Se ha corregido el sistema de hibernación, ahora conserva los servicios críticos y aplicaciones hasta el siguiente inicio sin problemas.
-5. Se han removido opciones de compilaciones anteriores que no funcionaban, en su lugar se remplazó por opciones mucho más funcionales y útiles.
-6. Se ha hecho un salto de numeración del núcleo Live de v1.0.0 a v1.0.1 trayendo consigo muchas correcciones y reforzando su seguridad y robustez.
-7. Se ha modificado el sistema de arranque, no para que vaya más rápido, sino para que sea mucho más estables.
-8. Ahora va todo en general con una mejor fluidez, en comparación con la compilación 302, la compilación 303 va un 37% más rápido ya que se eliminó cosas innecesarias.
+latest_build=304
+download_url=https://raw.githubusercontent.com/andromebitlab-2/SlideOS/master/master/SlideOS%20NextGenesis%20v1.0.1-304.ppsm
+changelog=Se ha solucionado estos fallos o problemas:
+1. Se solucionó el error del botón de inicio de sesión
+2. Se solucionó errores en el arranque y en los comandos
+3. Se solucionó problemas de configuraciones en el usuario
+4. Se aceleró aun mas el arranque y tiempos de cargas
+5. Se ha quitado algunas pantallas de cargas molestas
+6. Se ha quitado partes del sistema que no son útiles
+7. Se ha quitado ciertos sectores del código redundantes
+8. Se modificó el sistema de IDs del sistema
+9. Se mantiene la versión de Live: v1.0.1
+10. Se mejoró la compatibilidad con compilaciones anteriores (FAT300, 301, 302, 303)
+Hola: Jesla
+ACLARACIÓN: El modulo de autoejecución (NO SE EJECUTA) si el sistema se encuentra en modo de edición, es critico para su funcionamiento, no recomendamos que se abra el sistema en modo de edición ya que el ciertas partes del sistema requieren estar en modo de presentación
